@@ -1,0 +1,2 @@
+# snapshot_template
+GCEをスナップショットから作成するテンプレート
